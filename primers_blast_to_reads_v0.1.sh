@@ -14,7 +14,7 @@ echo $start
 
 usage="
 
-A short script to extract mapped the first n bases from sequenced reads and 
+A short script to extract the first n bases from mapped sequenced reads and 
 blast them against the primers db.
 
 USAGE:
